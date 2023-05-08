@@ -14,7 +14,7 @@ Have fun!
 Da hood is different because theres many scripts including RayX and Agent!
 
 - Agent
-- https://raw.githubusercontent.com/ak9mee/robloxscripts/dahood/agent.lua
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/dahood/agent.lua"))()
 
 - RayX
 - https://raw.githubusercontent.com/ak9mee/robloxscripts/dahood/rayx.lua
