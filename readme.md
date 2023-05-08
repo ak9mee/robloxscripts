@@ -27,3 +27,11 @@ Da hood is different because theres many scripts including RayX and Agent!
 # Flee the facility
 
 - loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/flee/main.lua"))()
+
+# Identity Fraud
+
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/identityfraud/main.lua"))()
+
+# KAT
+
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/kat/main.lua"))()
