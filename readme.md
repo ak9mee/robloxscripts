@@ -7,6 +7,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/
 - Your gonna replace "replace" with the folder with the script!
 ex. (identity fraud) loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/identityfraud/main.lua"))()
 
+But if you still dont understand ill write them below!!
+
 Have fun!
 
 # Da hood scripts
@@ -21,3 +23,7 @@ Da hood is different because theres many scripts including RayX and Agent!
 
 - Normal ESP n More GUI
 - loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/dahood/esp.lua"))()
+
+# Flee the facility
+
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/flee/main.lua"))()
