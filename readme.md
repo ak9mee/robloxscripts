@@ -1,4 +1,4 @@
-How to excuete? 
+- How to execute?
 
 download syanpse x or krnl or any lua exucter and paste the following in the console and inject!!
 
