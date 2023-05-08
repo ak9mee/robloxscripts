@@ -35,3 +35,7 @@ Da hood is different because theres many scripts including RayX and Agent!
 # KAT
 
 - loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/kat/main.lua"))()
+
+# Bronx 2
+
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/ak9mee/robloxscripts/bronx2/main.lua"))()
